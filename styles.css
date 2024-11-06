@@ -1,8 +1,14 @@
 :root {
-   --cor-de-fundo: #FFFFFF; 
+   --cor-de-fundo: #d4e9f3; 
 }
 
 body {
     background-color: var(--cor-de-fundo);
 }
 
+header {
+    border-bottom: solid 2px rgb(150, 192, 247);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(136, 182, 242);
+}
