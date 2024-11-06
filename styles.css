@@ -1,5 +1,5 @@
 :root {
-   --cor-de-fundo: #d4e9f3; 
+   --cor-de-fundo: #f2f8fa; 
 }
 
 body {
@@ -11,4 +11,8 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(136, 182, 242);
+}
+
+p {
+    font-size:35px ;
 }
