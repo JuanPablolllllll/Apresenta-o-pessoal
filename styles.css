@@ -17,6 +17,14 @@ header {
     color: rgb(136, 182, 242);
 }
 
+.chamada {
+    background: rgb(3, 231, 26);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
 p {
     font-size:35px ;
 }
@@ -32,4 +40,20 @@ p {
 
 h1 {
     font-size: 30;
+}
+
+.categoria-musica-favorita {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria-musica-favorita img {
+    opacity: 1.1;
+    height: 100px;
+}
+
+.categoria-musica-favorita img:hover {
+    opacity: 1.1;
+    border: 3px solid green;
 }
