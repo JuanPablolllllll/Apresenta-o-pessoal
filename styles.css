@@ -17,14 +17,6 @@ header {
     color: rgb(136, 182, 242);
 }
 
-.chamada-texto {
-    background: rgb(3, 231, 26);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
 p {
     font-size:35px ;
 }
@@ -32,6 +24,15 @@ p {
 .container {
     font-size: 40;
     font-weight: 200px;
+}
+
+.chamada-texto {
+    background: rgb(5, 241, 28);
+    padding-left: 23;
+    padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {
