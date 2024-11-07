@@ -17,6 +17,10 @@ header {
     color: rgb(136, 182, 242);
 }
 
+.chamada {
+    padding-bottom: 80px;
+}
+
 p {
     font-size:35px ;
 }
@@ -27,12 +31,7 @@ p {
 }
 
 .chamada-texto {
-    background: rgb(5, 241, 28);
     padding-left: 23;
-    padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
 }
 
 h1 {
@@ -52,5 +51,5 @@ h1 {
 
 .categoria-musica-favorita img:hover {
     opacity: 1.1;
-    border: 3px solid green;
+    
 }
