@@ -17,7 +17,7 @@ header {
     color: rgb(136, 182, 242);
 }
 
-.chamada {
+.chamada-texto {
     background: rgb(3, 231, 26);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -32,10 +32,6 @@ p {
 .container {
     font-size: 40;
     font-weight: 200px;
-}
-
-.chamada-texto {
-    padding-left: 23;
 }
 
 h1 {
