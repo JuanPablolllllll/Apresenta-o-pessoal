@@ -1,9 +1,13 @@
 :root {
-   --cor-de-fundo: #f2f8fa; 
+   --cor-de-fundo: #090909; 
 }
 
 body {
     background-color: var(--cor-de-fundo);
+    color:rgb(250, 252, 253);
+    margin: 2px;
+    margin-bottom: 100;
+    font-family: "chakra petch", sans-serif;
 }
 
 header {
@@ -19,5 +23,13 @@ p {
 
 .container {
     font-size: 40;
-    font-weight: 200;
+    font-weight: 200px;
+}
+
+.chamada-texto {
+    padding-left: 23;
+}
+
+h1 {
+    font-size: 30;
 }
