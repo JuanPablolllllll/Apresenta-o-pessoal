@@ -16,3 +16,8 @@ header {
 p {
     font-size:35px ;
 }
+
+.container {
+    font-size: 40;
+    font-weight: 200;
+}
