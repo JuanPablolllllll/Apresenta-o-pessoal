@@ -47,7 +47,7 @@ h2 {
     margin-top: 10px;
 }
 
-.categoria-musica-favorita {
+.categoria-musicas-favorita {
   display: flex;
   overflow-x: auto;
   gap: 10px;
