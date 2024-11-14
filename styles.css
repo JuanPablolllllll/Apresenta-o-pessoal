@@ -17,6 +17,12 @@ header {
     color: rgb(136, 182, 242);
 }
 
+.cabeçalho {
+    display: flex;
+    padding-top: 23px;
+    padding-right: 23px;
+}
+
 .chamada {
     font-size: 32;
 }
